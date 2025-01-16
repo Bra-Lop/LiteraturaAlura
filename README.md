@@ -1,7 +1,3 @@
-¡Claro que sí! Con la información que me has proporcionado a lo largo de esta conversación, puedo crear un README más completo y preciso para tu proyecto challengerLiteratura.
-
-Markdown
-
 # challengerLiteratura
 
 Este proyecto es una API REST desarrollada con Spring Boot que interactúa con la API de Gutendex (gutendex.com) para gestionar información detallada sobre libros y autores. Permite buscar libros por título, extraer datos relevantes de los autores (como fechas de nacimiento y fallecimiento) y ofrece estadísticas sobre la cantidad de libros por idioma. Además, persiste la información en una base de datos PostgreSQL.
